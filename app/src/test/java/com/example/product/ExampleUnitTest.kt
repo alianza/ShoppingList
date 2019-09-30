@@ -1,4 +1,4 @@
-package com.example.reminder
+package com.example.product
 
 import org.junit.Test
 
